@@ -5,7 +5,7 @@ import cryptography # testing
 from cryptography.fernet import Fernet # testing
 
 
-# testing crypto functionalitiess
+# testing crypto functionalities
 
 # generate a key 
 key = Fernet.generate_key() 
